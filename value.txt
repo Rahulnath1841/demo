@@ -1,0 +1,64 @@
+# AWS
+aws_access_key_id = AKIAIOSFODNN7EXAMPLE
+aws_secret_access_key = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+
+# GitHub Token
+ghp_1234567890abcdefghijklmnopqrstuvwxyzABCDEFG
+
+# Slack Token
+xoxb-123456789012-123456789012-ABCDEFGHIJKLMNOabcdefghijklmno
+
+# Google API Key
+AIzaSyA-EXAMPLE-KEY-1234567890abcdefgHIJKL
+
+# Heroku API Key
+heroku_api_key: 01234567-89ab-cdef-0123-456789abcdef
+
+# Stripe Secret Key
+sk_test_4eC39HqLyjWDarjtT1zdp7dc
+
+# Twilio API Key
+SK12345678901234567890123456789012
+
+# Mailchimp API Key
+1234567890abcdef1234567890abcdef-us5
+
+# Facebook Access Token
+EAABsbCS1iHgBAKZCZBZCZCZCZBZCZCZCZCZCZCZCZCZDZDZDZDZDZDZDZDZDZDZCZDZDZD
+
+# Azure Storage Key
+DefaultEndpointsProtocol=https;AccountName=example;AccountKey=AbC1234567890+/abC1234567890+/abC1234567890+/abC1234567890+=
+
+# JWT Token
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6
+
+# Private RSA Key
+-----BEGIN PRIVATE KEY-----
+MIIEvQIBADANBgkqhkiG9w0BA...
+-----END PRIVATE KEY-----
+
+# Dropbox API Secret
+b2c7d88d2aab3e4b1a7a48db6a20a6bf
+
+# DigitalOcean Personal Access Token
+do_pat_0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcd
+
+# GitLab Personal Access Token
+glpat-abcdefghijklmnopqrstuvwxyz1234
+
+# Password hardcoded
+db_password = 'MySuperSecret123!'
+
+# SSH Private Key
+-----BEGIN OPENSSH PRIVATE KEY-----
+b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAA...
+-----END OPENSSH PRIVATE KEY-----
+
+# SendGrid API Key
+SG.xxxxxxxx.yyyyyyyy_zzzzzzzz-aaaaaaaaaaaaaaaaaaaaaaaaaa
+
+# SonarQube Token
+sqa_a4ebc7a27f9a3c8b9f3f3f3f3f3f3f3f3f3f3f3f
+
+# Cloudflare API Token
+cf_api_token=abcdef1234567890abcdef1234567890abcdef12
